@@ -12,9 +12,6 @@ output "ec2_instance_state" {
   value = "${aws_instance.PoseidonTestInstance.instance_state}"
 }
 
-On Thu, Apr 6, 2017 at 1:07 AM, <rajesh.r180@gmail.com> wrote:
-
-
 
 
 
